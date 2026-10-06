@@ -1,0 +1,17 @@
+/* Whole Website CSS*/
+.icons{grid-area:links;
+padding:10px;
+align-items:center;
+justify-content: center;
+display:flex;
+text-align: center;
+font-size: 20px;}
+.icons ul{display: flex;
+    list-style-type: none;
+padding-left: 0;}
+.icons li{display:inline;
+padding:20px;}
+.icons a{color:var(--color-primary);}
+.icons a:hover{color:var(--fourth);}
+
+/* Navigation Bar */
